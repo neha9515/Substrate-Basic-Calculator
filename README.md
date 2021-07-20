@@ -1,2 +1,2 @@
-# Substrate-Basic-CalculatorInstalltion
+# Substrate-Basic-Calculator
 	
